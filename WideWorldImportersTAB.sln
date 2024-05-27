@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6870E480-7721-4708-BFB8-9AE898AA21B3}") = "WideWorldImportersTAB", "WideWorldImportersTAB\WideWorldImportersTAB.smproj", "{8CE414BB-95B2-4C99-9E03-51BA72086E22}"
+EndProject
+Project("{6870E480-7721-4708-BFB8-9AE898AA21B3}") = "WideWorldImportersDQ", "WideWorldImportersDQ\WideWorldImportersDQ.smproj", "{E1B94A08-FB4B-4CFB-8AC6-79DFB3D64481}"
+EndProject
+Project("{6870E480-7721-4708-BFB8-9AE898AA21B3}") = "WideWorldImportersPQ", "WideWorldImportersPQ\WideWorldImportersPQ.smproj", "{F2485675-8E54-4AF5-9B2C-6BAEE3DC9CA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|x86 = Development|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CE414BB-95B2-4C99-9E03-51BA72086E22}.Development|x86.ActiveCfg = Development|x86
+		{8CE414BB-95B2-4C99-9E03-51BA72086E22}.Development|x86.Build.0 = Development|x86
+		{8CE414BB-95B2-4C99-9E03-51BA72086E22}.Development|x86.Deploy.0 = Development|x86
+		{E1B94A08-FB4B-4CFB-8AC6-79DFB3D64481}.Development|x86.ActiveCfg = Development|x86
+		{E1B94A08-FB4B-4CFB-8AC6-79DFB3D64481}.Development|x86.Build.0 = Development|x86
+		{E1B94A08-FB4B-4CFB-8AC6-79DFB3D64481}.Development|x86.Deploy.0 = Development|x86
+		{F2485675-8E54-4AF5-9B2C-6BAEE3DC9CA5}.Development|x86.ActiveCfg = Development|x86
+		{F2485675-8E54-4AF5-9B2C-6BAEE3DC9CA5}.Development|x86.Build.0 = Development|x86
+		{F2485675-8E54-4AF5-9B2C-6BAEE3DC9CA5}.Development|x86.Deploy.0 = Development|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE84A56A-5359-421B-BD07-0E97343FBBD8}
+	EndGlobalSection
+EndGlobal
